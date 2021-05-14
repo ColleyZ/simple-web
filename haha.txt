@@ -1,0 +1,147 @@
+ <!-- ! dota2 team  -->
+       
+      <section class="dota-team">
+        <div class="section">
+          <div class="team-section-title">
+            <h3>DOTA2 <span>team</span></h3>
+          </div>
+          <div class="teams-container">
+            <!-- !begin -->
+            <div class="single-team">
+              <div class="pro-team-img">
+                <img src="./team-img/ig.webp" alt="" />
+              </div>
+              <div class="team-info">
+                <h5>invictus gaming</h5>
+                <div class="spans"></div>
+                <span class="span">kaka</span>
+                <span class="span">jt</span>
+                <span class="span">emo</span>
+                <span class="span">oli</span>
+                <span class="span">flyfly</span>
+              </div>
+            </div>
+          </div>
+          <!-- !end -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/lgd.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>lgd gaming</h5>
+              <div class="spans">
+                <span class="span">ame</span>
+                <span class="span">nts</span>
+                <span class="span">faith_bian</span>
+                <span class="span">xinQ</span>
+                <span class="span">y</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/vici.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>vici gaming</h5>
+              <div class="spans">
+                <span class="span">poyoyo</span>
+                <span class="span">ori</span>
+                <span class="span">old_eleven</span>
+                <span class="span">pyw</span>
+                <span class="span">dy</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/aster.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>team aster</h5>
+              <div class="spans">
+                <span class="span">monet</span>
+                <span class="span">white_alubm</span>
+                <span class="span">xxs</span>
+                <span class="span">boboka</span>
+                <span class="span">lanm</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/secret.png" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>team secret</h5>
+              <div class="spans">
+                <span class="span">matumbaman</span>
+                <span class="span">nisha</span>
+                <span class="span">zai</span>
+                <span class="span">yapzor</span>
+                <span class="span">puppey</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/eg.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>evil genius</h5>
+              <div class="spans">
+                <span class="span">arteezy</span>
+                <span class="span">abed</span>
+                <span class="span">iceiceice</span>
+                <span class="span">crit</span>
+                <span class="span">fly</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/vp.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>virtus pro</h5>
+              <div class="spans">
+                <span class="span">nightfall</span>
+                <span class="span">gpk</span>
+                <span class="span">dm</span>
+                <span class="span">save-</span>
+                <span class="span">kingslayer</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+          <!-- singe team -->
+          <div class="single-team">
+            <div class="pro-team-img">
+              <img src="./team-img/elephant.jpg" alt="" />
+            </div>
+            <div class="team-info">
+              <h5>elephant</h5>
+              <div class="spans">
+                <span class="span">paparazi</span>
+                <span class="span">maybe</span>
+                <span class="span">yang</span>
+                <span class="span">fy-</span>
+                <span class="span">redpanda</span>
+              </div>
+            </div>
+          </div>
+          <!-- end the single team section -->
+        </div>
+      </section>
+      <!-- ! end dota2 team -->
